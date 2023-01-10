@@ -2,7 +2,7 @@
 
 
 ## İçerik
-Okunmuş ya da okunacak olan kitapları ekleyebildiğin bir kişisel kütüphane sitesi.
+Okunmuş ya da okunacak kitapları ekleyebildiğin bir kişisel kütüphane sitesi.
 
 
 
